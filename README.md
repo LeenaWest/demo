@@ -1,21 +1,29 @@
-# Git-versionhallinta
+# Git-versionhallinta – Hello-ohjelma
 
-**Kurssin nimi:** Git-versionhallinta
-**Toteutuksen koodi:** SOF013AS2A-3003 
+**Kurssin nimi:** Git-versionhallinta  
+**Toteutuksen koodi:** SOF013AS2A-3003  
 **Tekijä:** Leena Westerlund
 
-## Oppimispäiväkirja
+## Hello-ohjelma
 
-Tässä repositoriossa on Git ja GitHub -kurssin oppimispäiväkirjatehtävät.
+Tässä repositoriossa on Git-versionhallinta-kurssin Hello-ohjelman harjoitukset 1–7.
 
-### Osio 1: Paikallinen Git
+Harjoituksissa on harjoiteltu Gitin ja GitHubin käyttöä, kuten:
 
-[Paikallinen Git](paivakirja1.md)
+- Git-repositorion luomista ja perustoimintoja
+- Commitien tekemistä ja muutosten peruuttamista
+- Ominaisuushaarojen luomista ja yhdistämistä
+- Etärepositorion ja paikallisen repositorion synkronointia
+- GitHubin käyttöä ja pull requestien tekemistä
+- Tiimityöskentelyä Gitin avulla
+- Tunnisteiden eli tagien käyttöä
 
-### Osio 2: Hajautettu Git
+## Harjoitukset
 
-[Hajautettu Git](paivakirja2.md)
-
-### Osio 3: Git projektissa
-
-[Git projektissa](paivakirja3.md)
+- Harjoitus 1: Git-versionhallinnan perusteet
+- Harjoitus 2: Perustoimintoja
+- Harjoitus 3: Peruuttelua
+- Harjoitus 4: Ominaisuushaara
+- Harjoitus 5: GitHub ja etärepositorio
+- Harjoitus 6: Git projektissa
+- Harjoitus 7: Yhdistämispyynnöt ja pull requestit
